@@ -36,7 +36,13 @@ Open your browser and visit: [http://localhost:5000](http://localhost:5000)
 
 Run tests with Pytest:
 
-pytest
+pytest test_api_validation.py
+
+Here is the result from my local system:
+
+<img width="565" height="373" alt="Screenshot 2025-09-04 at 9 28 35 PM" src="https://github.com/user-attachments/assets/51114140-9221-481e-8672-f59de1cbaa7a" />
+
+
 
 
 This will execute the Pytest unit test cases to validate the API endpoints.
